@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"itu840","l":"AnnualAttenuationTest"},{"p":"itu840","l":"AnnualLpTest"},{"p":"itu840","l":"Itu840"},{"p":"itu840","l":"LogNormalAnnualAttenuationTest"},{"p":"itu840","l":"MonthlyLpTest"}];updateSearchResults();
