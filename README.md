@@ -108,4 +108,4 @@ If you use this implementation in research or projects, please cite as:
 
 ## 📬 Contact
 
-If you have any questions, suggestions, or recommendations, please do not hesitate to reach out to me at **severm21@itu.edu.tr**.
+If you have any questions, suggestions, or recommendations, please do not hesitate to reach out to me at **msaitsever@icloud.com**.
