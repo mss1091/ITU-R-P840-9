@@ -43,6 +43,12 @@ These features and more are explained in detail in the **generated Javadoc**.
 
 ---
 
+## 📚 Documentation
+
+Browse the full Javadoc online: [ITU-R P.840-9 Javadoc](https://mss1091.github.io/ITU-R-P840-9/)  
+
+---
+
 ## 📊 Data Files
 
 - **TXT files** (under `/data/`) → annual, monthly, and log-normal digital maps of climatological parameters.  
@@ -102,4 +108,4 @@ If you use this implementation in research or projects, please cite as:
 
 ## 📬 Contact
 
-If you have any questions, suggestions, or recommendations, please do not hesitate to reach out to me at **severm21@itu.edu.tr**.  
+If you have any questions, suggestions, or recommendations, please do not hesitate to reach out to me at **severm21@itu.edu.tr**.
